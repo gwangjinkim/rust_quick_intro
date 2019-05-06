@@ -11,8 +11,8 @@
  */
 
 
-/// Doc comments parsed into HTML library documentation
-//! For enclosing item
+// /// Doc comments parsed into HTML library documentation
+// //! For enclosing item
 
 // into file: hello.rs
 // main function
