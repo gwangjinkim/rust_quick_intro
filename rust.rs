@@ -65,7 +65,7 @@ fn main() {
            object="named arguments.");
   
   // precial formatting after `:`
-  println1("{} of {:b} people understand binary, the other half doesn't",
+  println!("{} of {:b} people understand binary, the other half doesn't",
            1,
            2);
   
